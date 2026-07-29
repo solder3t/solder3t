@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Dynamic Typing Banner Header -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=61AFEF&center=true&vcenter=true&width=850&height=70&lines=Hi+%F0%9F%90%8B%2C+I'm+solder3t;Full-Stack+Developer+%7C+Open-Source+Enthusiast;Building+scalable+web+apps+%26+modern+tools" alt="Typing Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=61AFEF&center=true&vcenter=true&width=850&height=70&lines=Hi+%F0%9F%90%8B%2C+I'm+solder3t;Open-Source+Enthusiast+%26+Builder;Crafting+%26+sharing+tools+I+use+every+day" alt="Typing Banner" />
 
   <br/><br/>
 
@@ -24,17 +24,17 @@
 
 ### 🚀 About Me
 
-👋 Hi there! I'm **solder3t**, a passionate software developer focused on building modern web applications, clean user experiences, and reliable software.
+👋 Hi there! I'm **solder3t**, an open-source enthusiast passionate about building practical apps and tools I use every day — and sharing them openly with the community.
 
-- 🔭 **Currently working on**: Scalable web applications & open-source projects
-- 🌱 **Currently learning**: Advanced web performance, cloud infrastructure & system design
-- 💬 **Ask me about**: JavaScript / TypeScript, Web Development, APIs & UI design
-- 📫 **How to reach me**: [sold3vs@gmail.com](mailto:sold3vs@gmail.com)
-- ⚡ **Fun fact**: I love turning complex problems into simple, intuitive code!
+- 💡 **What I do**: Build open-source applications and custom developer utilities to solve real needs
+- 🛠️ **Philosophy**: Craft tools I personally rely on, refining and shipping them in the open
+- 🌱 **Currently exploring**: Web performance, cloud infrastructure, and streamlined dev workflows
+- 💬 **Ask me about**: Open-source, web technologies, UI design, and custom tooling
+- 📫 **Get in touch**: [sold3vs@gmail.com](mailto:sold3vs@gmail.com)
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### 🛠️ Tech Stack & Tools
 
 #### **Languages**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -64,7 +64,7 @@
 
 ---
 
-### 📊 GitHub Statistics
+### 📊 GitHub Overview
 
 <div align="center">
 
@@ -77,7 +77,7 @@
 
 <div align="center">
 
-  <img src="https://streak-stats.demolab.com/?user=solder3t&theme=tokyonight" alt="GitHub Streak Stats"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=solder3t&theme=tokyonight&hide_border=true" alt="GitHub Activity Graph" width="100%"/>
 
 </div>
 
@@ -91,13 +91,13 @@
 
 ---
 
-### 📌 Featured Projects
+### 📌 Featured Open-Source Projects & Tools
 
 | Project | Description | Tech Stack | Link |
 | :--- | :--- | :--- | :---: |
-| 🚀 **Web Application** | A modern full-stack web app designed with rich UX and responsive layout. | `React` `Node.js` `MongoDB` | [🔗 Repo](https://github.com/solder3t) |
-| 🎨 **Portfolio Website** | Personal portfolio showcasing projects, experience, and blog posts. | `Next.js` `TypeScript` `CSS` | [🔗 Repo](https://github.com/solder3t) |
-| ⚙️ **Developer Tools** | Suite of scripts and tools built to enhance development workflow productivity. | `Python` `Shell` `Git` | [🔗 Repo](https://github.com/solder3t) |
+| 🚀 **Web Application** | A modern open-source web app built to solve everyday tasks. | `React` `Node.js` `MongoDB` | [🔗 Repo](https://github.com/solder3t) |
+| 🎨 **Personal Site** | Portfolio and showcase for open-source tools and projects. | `Next.js` `TypeScript` `CSS` | [🔗 Repo](https://github.com/solder3t) |
+| ⚙️ **Developer Utilities** | Suite of scripts and tools built for daily productivity. | `Python` `Shell` `Git` | [🔗 Repo](https://github.com/solder3t) |
 
 ---
 
