@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Dynamic Typing Banner Header -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=61AFEF&center=true&vcenter=true&width=600&height=70&lines=Hi+%F0%9F%90%8B%2C+I'm+solder3t;Full-Stack+Developer+%7C+Open-Source+Enthusiast;Building+scalable+web+apps+%26+modern+tools" alt="Typing Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=61AFEF&center=true&vcenter=true&width=850&height=70&lines=Hi+%F0%9F%90%8B%2C+I'm+solder3t;Full-Stack+Developer+%7C+Open-Source+Enthusiast;Building+scalable+web+apps+%26+modern+tools" alt="Typing Banner" />
 
   <br/><br/>
 
@@ -68,8 +68,8 @@
 
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=solder3t&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="solder3t's GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=solder3t&layout=compact&theme=tokyonight&hide_progress=false" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=solder3t&show_icons=true&theme=tokyonight&include_all_commits=true" alt="solder3t's GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=solder3t&layout=compact&theme=tokyonight" alt="Top Languages"/>
 
 </div>
 
@@ -77,7 +77,15 @@
 
 <div align="center">
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=solder3t&theme=tokyonight" alt="GitHub Streak Stats"/>
+  <img src="https://streak-stats.demolab.com/?user=solder3t&theme=tokyonight" alt="GitHub Streak Stats"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=solder3t&theme=tokyonight" alt="Profile Summary"/>
 
 </div>
 
