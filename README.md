@@ -68,9 +68,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/tokyonight/0-profile-details.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./profile-summary-card-output/github/0-profile-details.svg">
-    <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Summary" width="100%"/>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/tokyonight/0-profile-details.svg?v=1">
+    <source media="(prefers-color-scheme: light)" srcset="./profile-summary-card-output/github/0-profile-details.svg?v=1">
+    <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg?v=1" alt="Profile Summary" width="100%"/>
   </picture>
 </div>
 
@@ -78,9 +78,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/github-contribution-grid-snake.svg">
-    <img src="./assets/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/github-contribution-grid-snake-dark.svg?v=1">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/github-contribution-grid-snake.svg?v=1">
+    <img src="./assets/github-contribution-grid-snake.svg?v=1" alt="Contribution Snake"/>
   </picture>
 </div>
 
@@ -88,29 +88,14 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/tokyonight/1-repos-per-language.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./profile-summary-card-output/github/1-repos-per-language.svg">
-    <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos per Language" width="48%"/>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/tokyonight/1-repos-per-language.svg?v=1">
+    <source media="(prefers-color-scheme: light)" srcset="./profile-summary-card-output/github/1-repos-per-language.svg?v=1">
+    <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg?v=1" alt="Repos per Language" width="48%"/>
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/tokyonight/2-most-commit-language.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./profile-summary-card-output/github/2-most-commit-language.svg">
-    <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most Commits Language" width="48%"/>
-  </picture>
-</div>
-
-<br/>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/tokyonight/3-stats.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./profile-summary-card-output/github/3-stats.svg">
-    <img src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub Stats" width="48%"/>
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/tokyonight/4-productive-time.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./profile-summary-card-output/github/4-productive-time.svg">
-    <img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive Time" width="48%"/>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/tokyonight/2-most-commit-language.svg?v=1">
+    <source media="(prefers-color-scheme: light)" srcset="./profile-summary-card-output/github/2-most-commit-language.svg?v=1">
+    <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg?v=1" alt="Most Commits Language" width="48%"/>
   </picture>
 </div>
 
@@ -118,9 +103,24 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-graph.svg">
-    <img src="./assets/activity-graph-dark.svg" alt="GitHub Activity Graph" width="100%"/>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/tokyonight/3-stats.svg?v=1">
+    <source media="(prefers-color-scheme: light)" srcset="./profile-summary-card-output/github/3-stats.svg?v=1">
+    <img src="./profile-summary-card-output/tokyonight/3-stats.svg?v=1" alt="GitHub Stats" width="48%"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/tokyonight/4-productive-time.svg?v=1">
+    <source media="(prefers-color-scheme: light)" srcset="./profile-summary-card-output/github/4-productive-time.svg?v=1">
+    <img src="./profile-summary-card-output/tokyonight/4-productive-time.svg?v=1" alt="Productive Time" width="48%"/>
+  </picture>
+</div>
+
+<br/>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-graph-dark.svg?v=1">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-graph.svg?v=1">
+    <img src="./assets/activity-graph-dark.svg?v=1" alt="GitHub Activity Graph" width="100%"/>
   </picture>
 </div>
 
