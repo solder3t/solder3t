@@ -93,15 +93,15 @@
 
 <div align="center">
 
-  <img src="./profile-summary-cards-output/tokyonight/0-profile-details.svg" alt="Profile Summary" width="48%"/>
-  <img src="./profile-summary-cards-output/tokyonight/1-repos-per-language.svg" alt="Repos per Language" width="48%"/>
+  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Summary" width="48%"/>
+  <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos per Language" width="48%"/>
 
 </div>
 
 <div align="center">
 
-  <img src="./profile-summary-cards-output/tokyonight/2-most-commit-language.svg" alt="Most Commits Language" width="48%"/>
-  <img src="./profile-summary-cards-output/tokyonight/3-stats.svg" alt="GitHub Stats" width="48%"/>
+  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most Commits Language" width="48%"/>
+  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub Stats" width="48%"/>
 
 </div>
 
