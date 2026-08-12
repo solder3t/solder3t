@@ -67,42 +67,40 @@
 ### 📊 GitHub Overview
 
 <div align="center">
-
-  <img src="./assets/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
-
+  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Summary" width="100%"/>
 </div>
 
 <br/>
 
 <div align="center">
-
   <img height="180em" src="./assets/github-stats.svg" alt="solder3t's GitHub Stats"/>
   <img height="180em" src="./assets/top-langs.svg" alt="Top Languages"/>
-
 </div>
 
 <br/>
 
 <div align="center">
-
-  <img src="./assets/activity-graph.svg" alt="GitHub Activity Graph" width="100%"/>
-
+  <img src="./assets/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
 </div>
 
 <br/>
 
 <div align="center">
-
-  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Summary" width="48%"/>
   <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos per Language" width="48%"/>
-
+  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most Commits Language" width="48%"/>
 </div>
 
+<br/>
+
 <div align="center">
-
-  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most Commits Language" width="48%"/>
   <img src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub Stats" width="48%"/>
+  <img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive Time" width="48%"/>
+</div>
 
+<br/>
+
+<div align="center">
+  <img src="./assets/activity-graph.svg" alt="GitHub Activity Graph" width="100%"/>
 </div>
 
 ---
