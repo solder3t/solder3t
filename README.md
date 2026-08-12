@@ -95,9 +95,9 @@
 
 | Project | Description | Tech Stack | Link |
 | :--- | :--- | :--- | :---: |
-| 🚀 **Web Application** | A modern open-source web app built to solve everyday tasks. | `React` `Node.js` `MongoDB` | [🔗 Repo](https://github.com/solder3t) |
-| 🎨 **Personal Site** | Portfolio and showcase for open-source tools and projects. | `Next.js` `TypeScript` `CSS` | [🔗 Repo](https://github.com/solder3t) |
-| ⚙️ **Developer Utilities** | Suite of scripts and tools built for daily productivity. | `Python` `Shell` `Git` | [🔗 Repo](https://github.com/solder3t) |
+| 🚀 **Web Application** | A modern open-source web app built to solve everyday tasks. | `React` `Node.js` `MongoDB` | [🔗 Repo](https://github.com/solder3t/musaic.vercel.app) |
+| 🎨 **Personal Site** | Portfolio and showcase for open-source tools and projects. | `Next.js` `TypeScript` `CSS` | [🔗 Repo](https://github.com/solder3t/solder3t.github.io) |
+| ⚙️ **Developer Utilities** | Suite of scripts and tools built for daily productivity. | `Python` `Shell` `Git` | [🔗 Repo](https://github.com/solder3t/linux-setup) |
 
 ---
 
