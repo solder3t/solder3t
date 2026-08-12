@@ -18,9 +18,7 @@ jobs:
       - name: Fetch Stats
         run: |
           mkdir -p assets
-          curl -s "https://github-readme-stats-eight-theta.vercel.app/api?username=${{ github.repository_owner }}&show_icons=true&theme=tokyonight&include_all_commits=true" -o assets/github-stats.svg
-          curl -s "https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=${{ github.repository_owner }}&layout=compact&theme=tokyonight" -o assets/top-langs.svg
-          curl -s "https://github-readme-activity-graph.vercel.app/graph?username=${{ github.repository_owner }}&theme=tokyonight&hide_border=true" -o assets/activity-graph.svg
+          curl -s "https://github-readme-activity-graph.vercel.app/graph?username=${{ github.repository_owner }}&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" -o assets/activity-graph.svg
 
       - name: Commit and push changes
         run: |

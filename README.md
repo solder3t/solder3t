@@ -70,14 +70,7 @@
   <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Summary" width="100%"/>
 </div>
 
-<br/>
 
-<div align="center">
-  <img height="180em" src="./assets/github-stats.svg" alt="solder3t's GitHub Stats"/>
-  <img height="180em" src="./assets/top-langs.svg" alt="Top Languages"/>
-</div>
-
-<br/>
 
 <div align="center">
   <img src="./assets/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
