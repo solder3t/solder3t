@@ -128,13 +128,53 @@
 
 ### 📌 Featured Open-Source Projects & Tools
 
-| Project | Description | Tech Stack | Link |
-| :--- | :--- | :--- | :---: |
-| 💿 **Musaic Player PC** | Cross-platform desktop music player application built for Musaic. | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) | [🔗 Repo](https://github.com/solder3t/musaic-player-pc) |
-| 🐧 **Linux Setup** | One-command development environment bootstrap for Arch, Fedora and Ubuntu/Debian. | ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) | [🔗 Repo](https://github.com/solder3t/linux-setup) |
-| 🛠️ **Android Studio Installer** | Native installation and packaging utility for running Android Studio on Linux. | ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) | [🔗 Repo](https://github.com/solder3t/android-studio-installer) |
-| 🌌 **Antigravity Installer** | Native installer script and local packaging for Antigravity 2.0 Agent & IDE. | ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) | [🔗 Repo](https://github.com/solder3t/antigravity-installer) |
-| 🩹 **Patch Recovery** | CI service that patches recovery.img of Dynamic Samsung devices. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | [🔗 Repo](https://github.com/solder3t/Patch-Recovery) |
+<div align="center">
+  <a href="https://github.com/solder3t/musaic-player-pc">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=solder3t&repo=musaic-player-pc&theme=tokyonight">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=solder3t&repo=musaic-player-pc">
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=solder3t&repo=musaic-player-pc&theme=tokyonight" alt="Musaic Player PC" width="48%"/>
+    </picture>
+  </a>
+  <a href="https://github.com/solder3t/linux-setup">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=solder3t&repo=linux-setup&theme=tokyonight">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=solder3t&repo=linux-setup">
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=solder3t&repo=linux-setup&theme=tokyonight" alt="Linux Setup" width="48%"/>
+    </picture>
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/solder3t/android-studio-installer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=solder3t&repo=android-studio-installer&theme=tokyonight">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=solder3t&repo=android-studio-installer">
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=solder3t&repo=android-studio-installer&theme=tokyonight" alt="Android Studio Installer" width="48%"/>
+    </picture>
+  </a>
+  <a href="https://github.com/solder3t/antigravity-installer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=solder3t&repo=antigravity-installer&theme=tokyonight">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=solder3t&repo=antigravity-installer">
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=solder3t&repo=antigravity-installer&theme=tokyonight" alt="Antigravity Installer" width="48%"/>
+    </picture>
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/solder3t/Patch-Recovery">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=solder3t&repo=Patch-Recovery&theme=tokyonight">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=solder3t&repo=Patch-Recovery">
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=solder3t&repo=Patch-Recovery&theme=tokyonight" alt="Patch Recovery" width="48%"/>
+    </picture>
+  </a>
+</div>
 
 ---
 
