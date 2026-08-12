@@ -95,9 +95,11 @@
 
 | Project | Description | Tech Stack | Link |
 | :--- | :--- | :--- | :---: |
-| 🚀 **Web Application** | A modern open-source web app built to solve everyday tasks. | `React` `Node.js` `MongoDB` | [🔗 Repo](https://github.com/solder3t/musaic.vercel.app) |
-| 🎨 **Personal Site** | Portfolio and showcase for open-source tools and projects. | `Next.js` `TypeScript` `CSS` | [🔗 Repo](https://github.com/solder3t/solder3t.github.io) |
-| ⚙️ **Developer Utilities** | Suite of scripts and tools built for daily productivity. | `Python` `Shell` `Git` | [🔗 Repo](https://github.com/solder3t/linux-setup) |
+| 💿 **Musaic Player PC** | Cross-platform desktop music player application built for Musaic. | `TypeScript` `CSS` `C++` | [🔗 Repo](https://github.com/solder3t/musaic-player-pc) |
+| 🐧 **Linux Setup** | One-command development environment bootstrap for Arch, Fedora and Ubuntu/Debian. | `Shell` `Bash` | [🔗 Repo](https://github.com/solder3t/linux-setup) |
+| 🛠️ **Android Studio Installer** | Native installation and packaging utility for running Android Studio on Linux. | `Shell` | [🔗 Repo](https://github.com/solder3t/android-studio-installer) |
+| 🌌 **Antigravity Installer** | Native installer script and local packaging for Antigravity 2.0 Agent & IDE. | `Shell` | [🔗 Repo](https://github.com/solder3t/antigravity-installer) |
+| 🩹 **Patch Recovery** | CI service that patches recovery.img of Dynamic Samsung devices. | `Python` | [🔗 Repo](https://github.com/solder3t/Patch-Recovery) |
 
 ---
 
