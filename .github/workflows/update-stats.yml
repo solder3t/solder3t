@@ -18,7 +18,7 @@ jobs:
       - name: Fetch Stats
         run: |
           mkdir -p assets
-          curl -s "https://github-readme-activity-graph.vercel.app/graph?username=${{ github.repository_owner }}&theme=github&area=true&hide_border=true" -o assets/activity-graph.svg
+          curl -s "https://github-readme-activity-graph.vercel.app/graph?username=${{ github.repository_owner }}&bg_color=ffffff&color=0366d6&line=28a745&point=28a745&area=true&hide_border=true" -o assets/activity-graph.svg
           curl -s "https://github-readme-activity-graph.vercel.app/graph?username=${{ github.repository_owner }}&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" -o assets/activity-graph-dark.svg
       - name: Commit and push changes
         run: |
