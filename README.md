@@ -68,8 +68,8 @@
 
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=solder3t&show_icons=true&theme=tokyonight&include_all_commits=true" alt="solder3t's GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=solder3t&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  <img height="180em" src="./assets/github-stats.svg" alt="solder3t's GitHub Stats"/>
+  <img height="180em" src="./assets/top-langs.svg" alt="Top Languages"/>
 
 </div>
 
@@ -77,7 +77,7 @@
 
 <div align="center">
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=solder3t&theme=tokyonight&hide_border=true" alt="GitHub Activity Graph" width="100%"/>
+  <img src="./assets/activity-graph.svg" alt="GitHub Activity Graph" width="100%"/>
 
 </div>
 
@@ -85,7 +85,7 @@
 
 <div align="center">
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=solder3t&theme=tokyonight" alt="Profile Summary"/>
+  <img src="./profile-summary-cards-output/tokyonight/0-profile-details.svg" alt="Profile Summary"/>
 
 </div>
 
