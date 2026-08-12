@@ -129,13 +129,6 @@
 ### 📌 Featured Open-Source Projects & Tools
 
 <div align="center">
-  <a href="https://github.com/solder3t/musaic-player-pc">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=solder3t&repo=musaic-player-pc&theme=tokyonight">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=solder3t&repo=musaic-player-pc">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=solder3t&repo=musaic-player-pc&theme=tokyonight" alt="Musaic Player PC" width="48%"/>
-    </picture>
-  </a>
   <a href="https://github.com/solder3t/linux-setup">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=solder3t&repo=linux-setup&theme=tokyonight">
@@ -143,11 +136,6 @@
       <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=solder3t&repo=linux-setup&theme=tokyonight" alt="Linux Setup" width="48%"/>
     </picture>
   </a>
-</div>
-
-<br/>
-
-<div align="center">
   <a href="https://github.com/solder3t/android-studio-installer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=solder3t&repo=android-studio-installer&theme=tokyonight">
@@ -155,6 +143,11 @@
       <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=solder3t&repo=android-studio-installer&theme=tokyonight" alt="Android Studio Installer" width="48%"/>
     </picture>
   </a>
+</div>
+
+<br/>
+
+<div align="center">
   <a href="https://github.com/solder3t/antigravity-installer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=solder3t&repo=antigravity-installer&theme=tokyonight">
@@ -162,16 +155,23 @@
       <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=solder3t&repo=antigravity-installer&theme=tokyonight" alt="Antigravity Installer" width="48%"/>
     </picture>
   </a>
-</div>
-
-<br/>
-
-<div align="center">
   <a href="https://github.com/solder3t/Patch-Recovery">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=solder3t&repo=Patch-Recovery&theme=tokyonight">
       <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=solder3t&repo=Patch-Recovery">
       <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=solder3t&repo=Patch-Recovery&theme=tokyonight" alt="Patch Recovery" width="48%"/>
+    </picture>
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/solder3t/musaic-player-pc">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=solder3t&repo=musaic-player-pc&theme=tokyonight">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=solder3t&repo=musaic-player-pc">
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=solder3t&repo=musaic-player-pc&theme=tokyonight" alt="Musaic Player PC" width="48%"/>
     </picture>
   </a>
 </div>
