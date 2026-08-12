@@ -68,6 +68,14 @@
 
 <div align="center">
 
+  <img src="./assets/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
   <img height="180em" src="./assets/github-stats.svg" alt="solder3t's GitHub Stats"/>
   <img height="180em" src="./assets/top-langs.svg" alt="Top Languages"/>
 
@@ -85,7 +93,15 @@
 
 <div align="center">
 
-  <img src="./profile-summary-cards-output/tokyonight/0-profile-details.svg" alt="Profile Summary"/>
+  <img src="./profile-summary-cards-output/tokyonight/0-profile-details.svg" alt="Profile Summary" width="48%"/>
+  <img src="./profile-summary-cards-output/tokyonight/1-repos-per-language.svg" alt="Repos per Language" width="48%"/>
+
+</div>
+
+<div align="center">
+
+  <img src="./profile-summary-cards-output/tokyonight/2-most-commit-language.svg" alt="Most Commits Language" width="48%"/>
+  <img src="./profile-summary-cards-output/tokyonight/3-stats.svg" alt="GitHub Stats" width="48%"/>
 
 </div>
 
@@ -95,11 +111,11 @@
 
 | Project | Description | Tech Stack | Link |
 | :--- | :--- | :--- | :---: |
-| 💿 **Musaic Player PC** | Cross-platform desktop music player application built for Musaic. | `TypeScript` `CSS` `C++` | [🔗 Repo](https://github.com/solder3t/musaic-player-pc) |
-| 🐧 **Linux Setup** | One-command development environment bootstrap for Arch, Fedora and Ubuntu/Debian. | `Shell` `Bash` | [🔗 Repo](https://github.com/solder3t/linux-setup) |
-| 🛠️ **Android Studio Installer** | Native installation and packaging utility for running Android Studio on Linux. | `Shell` | [🔗 Repo](https://github.com/solder3t/android-studio-installer) |
-| 🌌 **Antigravity Installer** | Native installer script and local packaging for Antigravity 2.0 Agent & IDE. | `Shell` | [🔗 Repo](https://github.com/solder3t/antigravity-installer) |
-| 🩹 **Patch Recovery** | CI service that patches recovery.img of Dynamic Samsung devices. | `Python` | [🔗 Repo](https://github.com/solder3t/Patch-Recovery) |
+| 💿 **Musaic Player PC** | Cross-platform desktop music player application built for Musaic. | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) | [🔗 Repo](https://github.com/solder3t/musaic-player-pc) |
+| 🐧 **Linux Setup** | One-command development environment bootstrap for Arch, Fedora and Ubuntu/Debian. | ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) | [🔗 Repo](https://github.com/solder3t/linux-setup) |
+| 🛠️ **Android Studio Installer** | Native installation and packaging utility for running Android Studio on Linux. | ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) | [🔗 Repo](https://github.com/solder3t/android-studio-installer) |
+| 🌌 **Antigravity Installer** | Native installer script and local packaging for Antigravity 2.0 Agent & IDE. | ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) | [🔗 Repo](https://github.com/solder3t/antigravity-installer) |
+| 🩹 **Patch Recovery** | CI service that patches recovery.img of Dynamic Samsung devices. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | [🔗 Repo](https://github.com/solder3t/Patch-Recovery) |
 
 ---
 
